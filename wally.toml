@@ -1,0 +1,11 @@
+[package]
+name = "breadboardengineer1234/dataserviceplus"
+description = "Lightweight data module"
+version = "0.1.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+repository = "https://github.com/breadboardengineer1234/DataServicePlus"
+exclude = ["benchmarks", "assets", "README.md"]
+realm = "shared"
+
+[dependencies]
